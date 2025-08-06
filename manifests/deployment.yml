@@ -36,4 +36,4 @@ spec:
         - name: leaderboard
           image: tailspinspacegamekuber.azurecr.io/leaderboard
           ports:
-          - containerPort: 80
+          - containerPort: 80`
